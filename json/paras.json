@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "para_number": 1,
+    "chapter_id": 1,
+    "verse_id": 1,
+    "verse_number": 1,
+    "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+  },
+  {
+    "id": 2,
+    "para_number": 2,
+    "chapter_id": 2,
+    "verse_id": 149,
+    "verse_number": 142,
+    "text": "سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ"
+  },
+  {
+    "id": 3,
+    "para_number": 3,
+    "chapter_id": 2,
+    "verse_id": 260,
+    "verse_number": 253,
+    "text": "تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ"
+  },
+  {
+    "id": 4,
+    "para_number": 4,
+    "chapter_id":3,
+    "verse_id": 386,
+    "verse_number": 93,
+    "text": "بكُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي"
+  },
+  {
+    "id": 5,
+    "para_number": 5,
+    "chapter_id": 4,
+    "verses_id": 517,
+    "verse_number": 24,
+    "text": "وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ"
+  },
+  {
+    "id": 6,
+    "para_number": 6,
+    "chapter_id": 4,
+    "verse_id": 648,
+    "verse_number": 155,
+    "text": "َّا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ"
+  },
+  {
+    "id": 7,
+    "para_number": 7,
+    "chapter_id": 5,
+    "verse_id": 751,
+    "verse_number": 82,
+    "text": "لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً"
+  },
+  {
+    "id": 8,
+    "para_number": 8,
+    "chapter_id": 6,
+    "verse_id": 900,
+    "verse_number": 111,
+    "text": "وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ"
+  },
+  {
+    "id": 9,
+    "para_number": 9,
+    "chapter_id": 7,
+    "verse_id": 1042,
+    "verse_number": 88,
+    "text": "َالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا"
+  },
+  {
+    "id": 10,
+    "para_number": 10,
+    "chapter_id": 8,
+    "verse_id": 1201,
+    "verse_number": 41,
+    "text": "وَاعْلَمُوا أَنَّمَا غَنِمْتُم مِّن شَيْءٍ"
+  },
+  {
+    "id": 11,
+    "para_number": 11,
+    "chapter_id": 9,
+    "verse_id": 1328,
+    "verse_number": 93,
+    "text": "ِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ"
+  },
+  {
+    "id": 12,
+    "para_number": 12,
+    "chapter_id": 11,
+    "verse_id": 1479,
+    "verse_number": 6,
+    "text": "وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ"
+  },
+  {
+    "id": 13,
+    "para_number": 13,
+    "chapter_id": 12,
+    "verse_id": 1649,
+    "verse_number": 53,
+    "text": "وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ"
+  },
+  {
+    "id": 14,
+    "para_number": 14,
+    "chapter_id": 15,
+    "verse_id": 1803,
+    "verse_number": 1,
+    "text": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُّبِينٍ"
+  },
+  {
+    "id": 15,
+    "para_number": 15,
+    "chapter_id": 17,
+    "verse_id": 2030,
+    "verse_number": 1,
+    "text": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا"
+  },
+  {
+    "id": 16,
+    "para_number": 16,
+    "chapter_id": 18,
+    "verses_id": 2215,
+    "verse_number": 75,
+    "text": "قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ"
+  },
+  {
+    "id": 17,
+    "para_number": 17,
+    "chapter_id": 21,
+    "verse_id": 2484,
+    "verse_number": 1,
+    "text": "اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ"
+  },
+  {
+    "id": 18,
+    "para_number": 18,
+    "chapter_id": 23,
+    "verse_id": 2674,
+    "verse_number": 1,
+    "text": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ"
+  },
+  {
+    "id": 19,
+    "para_number": 19,
+    "chapter_id": 25,
+    "verse_id": 2876,
+    "verse_number": 21,
+    "text": "وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا"
+  },
+  {
+    "id": 20,
+    "para_number": 20,
+    "chapter_id": 27,
+    "verse_id": 3215,
+    "verse_number": 56,
+    "text": "فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا"
+  },
+  {
+    "id": 21,
+    "para_number": 21,
+    "chapter_id": 29,
+    "verse_id": 3386,
+    "verse_number": 46,
+    "text": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي"
+  },
+  {
+    "id": 22,
+    "para_number": 22,
+    "chapter_id": 33,
+    "verse_id": 3564,
+    "verse_number": 31,
+    "text": "وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِ"
+  },
+  {
+    "id": 23,
+    "para_number": 23,
+    "chapter_id": 36,
+    "verse_id": 3733,
+    "verse_number": 28,
+    "text": "وَمَا أَنزَلْنَا عَلَىٰ قَوْمِهِ مِن بَعْدِهِ"
+  },
+  {
+    "id": 24,
+    "para_number": 24,
+    "chapter_id": 39,
+    "verse_id": 4090,
+    "verse_number": 32,
+    "text": "فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى اللَّهِ"
+  },
+  {
+    "id": 25,
+    "para_number": 25,
+    "chapter_id": 41,
+    "verse_id": 4265,
+    "verse_number": 47,
+    "text": "إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَمَا تَخْرُجُ"
+  },
+  {
+    "id": 26,
+    "para_number": 26,
+    "chapter_id": 46,
+    "verse_id": 4511,
+    "verse_number": 1,
+    "text": "حم تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ"
+  },
+  {
+    "id": 27,
+    "para_number": 27,
+    "chapter_id": 51,
+    "verse_id": 4706,
+    "verse_number": 31,
+    "text": "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ"
+  },
+  {
+    "id": 28,
+    "para_number": 28,
+    "chapter_id": 58,
+    "verse_id": 5105,
+    "verse_number": 1,
+    "text": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ"
+  },
+  {
+    "id": 29,
+    "para_number": 29,
+    "chapter_id": 67,
+    "verse_id": 5242,
+    "verse_number": 1,
+    "text": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ"
+  },
+  {
+    "id": 30,
+    "para_number": 30,
+    "chapter_id": 78,
+    "verse_id": 5673,
+    "verse_number": 1,
+    "text": "عَمَّ يَتَسَاءَلُونَ"
+  }
+]
